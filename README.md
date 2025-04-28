@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I am Doxer Mumo - AI Specialist in Finance | Data SCientist | Data Enthusiast</h1>
+<h1 align="center">Hi , I am Doxer Mumo - AI Specialist in Finance | Data Scientist | Data Enthusiast</h1>
 <h3 align="center">I am passionate about merging the worlds of Big Data and artificial intelligence to create smarter, data-driven solutions.</h3>
 
 - I’m currently working on **NLP, ML, predictive modeling, and quantitative finance.**
