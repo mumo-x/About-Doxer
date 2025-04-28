@@ -1,39 +1,11 @@
-
-
-I am passionate about merging the worlds of Big Data and artificial intelligence to create smarter, data-driven solutions.
-
-My work focuses on NLP, ML, predictive modeling, and quantitative finance.
-
-Always exploring new ways to turn complex data into clear financial insights.
-
-##  Skills & Technologies
-
-- Machine Learning (Supervised & Unsupervised)
-- Financial Modeling & Quantitative Analysis
-- Deep Learning (Neural Networks, NLP)
-- Python, R, SQL, SPSS 
-- Data Visualization (Power BI, Tableau, Matplotlib)
-- Statistical Research and Advanced Analytics
-
-## 📈 Current Focus
-
-- Developing AI models for risk prediction and financial forecasting
-- Applying NLP in financial document analysis
-- Researching AI ethics and model interpretability in finance
-
-
-"Transforming finance with the intelligence of AI."
-
-
-<h1 align="center">Hi , I am Doxer Mumo</h1>
-<h3 align="center">**AI Specialist in Finance** |  **Professional Statistician** |  **Data Enthusiast**
-I am passionate about merging the worlds of Big Data and artificial intelligence to create smarter, data-driven solutions.</h3>
+<h1 align="center">Hi , I am Doxer Mumo - AI Specialist in Finance | Professional Statistician | Data Enthusiast</h1>
+<h3 align="center">I am passionate about merging the worlds of Big Data and artificial intelligence to create smarter, data-driven solutions.</h3>
 
 - I’m currently working on **NLP, ML, predictive modeling, and quantitative finance.**
 
 - I’m looking to collaborate on **Machile learning model training**
 
-- 📫 How to reach me **mumodoxer1@gmail.com or +971581459133**
+- reach me through **mumodoxer1@gmail.com or +971581459133**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
